@@ -1,8 +1,5 @@
 # Hi there 👋
 
-## About Me
-
-I'm a passionate developer who loves to learn and create new things.
 
 <p align="center">
   <a href="https://github.com/okvishy">
@@ -25,11 +22,7 @@ I'm a passionate developer who loves to learn and create new things.
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/okvishy">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=okvishy&style=flat-square&color=blue" alt="Profile Views" />
