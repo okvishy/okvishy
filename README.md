@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/okvishy">
-    <img src="https://github-readme-stats.vercel.app/api?username=okvishy&show_icons=true&theme=radical" alt="GitHub Stats" />
+    
   </a>
   <a href="https://github.com/okvishy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okvishy&layout=compact&theme=radical" alt="Top Languages" />
